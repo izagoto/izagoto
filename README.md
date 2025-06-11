@@ -18,7 +18,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" <img src="https://github-readme-stats-izagoto.vercel.app/api?username=izagoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats-izagoto.vercel.app/api?username=izagoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&hide_border=true" />
 </a>
 
 
