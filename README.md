@@ -18,7 +18,7 @@
 
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+<img align="left" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izagoto&layout=compact&theme=radical" />
 
 
 
