@@ -17,9 +17,7 @@
 - Data Science <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2cGVjZWVnNmt5bXZvOWkwNHhudnU3bXFibG9wdGowejdwdjBpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="30">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=izagoto&theme=dark&hide_border=true" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
