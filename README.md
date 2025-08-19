@@ -16,7 +16,7 @@
 - Machine Learning <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGYybnp1azA1Z2tzMGhiamM5dzBlNXU2czF6MHRvaHpxN3N6NHA1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" width="30">
 - Data Science <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2cGVjZWVnNmt5bXZvOWkwNHhudnU3bXFibG9wdGowejdwdjBpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="30">
 
-<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=dark&hide_border=true" />
+<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=anuraghazra&theme=red&hide_border=true" />
 
 
 
