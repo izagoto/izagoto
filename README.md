@@ -20,9 +20,6 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" />
 
 
-
-
-
 📍 Based in Indonesia 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
