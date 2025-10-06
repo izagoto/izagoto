@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/izagoto/izagoto/blob/main/dev.gif" alt="Coder GIF" width="420" height="330">
+<!-- kanan: GIF lokal dari repo (pakai raw URL) -->
+<img align="right" src="https://raw.githubusercontent.com/izagoto/izagoto/main/dev.gif" alt="Coder GIF" width="420" height="330" />
 
 ### Hi there, I'm @izagoto 👋
 
@@ -11,17 +12,18 @@
 ---
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Golang <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcydjN6aGZlMDR3eWV6YnN0ZWFoNW9weWR0YWRtdzVrOXJ2aGtlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GJb22mIqoT01hGjG2C/giphy.gif" width="30">
-- Backend Development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1oNnNyMndldDNyOGs3NXY0NWYyNzZqYzJmaXBuOGwxbDN3bm5hdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30">
-- Machine Learning <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGYybnp1azA1Z2tzMGhiamM5dzBlNXU2czF6MHRvaHpxN3N6NHA1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" width="30">
-- Data Science <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQ2cGVjZWVnNmt5bXZvOWkwNHhudnU3bXFibG9wdGowejdwdjBpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="30">
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24" />
+- Golang <img src="https://media4.giphy.com/media/GJb22mIqoT01hGjG2C/giphy.gif" width="24" />
+- Backend Development <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="24" />
+- Machine Learning <img src="https://media1.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif" width="24" />
+- Data Science <img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="24" />
 
 ---
 
-<img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com?user=izagoto&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<!-- GitHub stats (lebih stabil menggunakan vercel) -->
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" alt="GitHub stats" />
 
 📍 **Based in Indonesia**
 
-![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- optional: top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izagoto&layout=compact&theme=radical" alt="Top Languages" />
