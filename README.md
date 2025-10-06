@@ -25,5 +25,6 @@
 
 📍 **Based in Indonesia**
 
-<!-- optional: top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izagoto&layout=compact&theme=radical" alt="Top Languages" />
+![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
