@@ -28,6 +28,10 @@
 
 📍 **Based in Indonesia**
 
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/izagoto?color=FF69B4&style=for-the-badge&label=Total%20Stars%20Earned&logo=star" alt="Total Stars Earned" />
+</p>
+
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
