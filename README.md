@@ -22,11 +22,6 @@
 
 <!-- GitHub stats (lebih stabil menggunakan vercel) -->
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" alt="GitHub stats" />
-### 📊 GitHub Stats
-![Izagoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izagoto&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izagoto&theme=radical)
-
 
 📍 **Based in Indonesia**
 
