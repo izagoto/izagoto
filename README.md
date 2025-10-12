@@ -27,9 +27,6 @@
 <!-- GitHub stats utama -->
 <img src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" />
 
-<!-- Streak (aktivitas harian) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=izagoto&theme=radical" alt="GitHub Streak" width="420" />
-
 <!-- Grafik aktivitas -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=izagoto&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 
