@@ -30,6 +30,7 @@
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/github/stars/izagoto?color=FF69B4&style=for-the-badge&label=Total%20Stars%20Earned&logo=star" alt="Total Stars Earned" />
+  <img src="https://custom-icon-badges.demolab.com/github/issues/izagoto?color=blue&style=for-the-badge&label=Total%20Issues&logo=issue-opened" alt="Total Issues" />
 </p>
 
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
