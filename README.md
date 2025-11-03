@@ -28,6 +28,11 @@
 
 📍 **Based in Indonesia**
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/1712.jpg" alt="Skull" width="150" />
+</p>
+
+
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
