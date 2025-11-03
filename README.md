@@ -32,16 +32,15 @@
 <!-- <p align="left">
   <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/klipartz.com.png" alt="Skull" width="200" />
 </p> -->
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/1712.jpg" alt="Skull" width="150" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- Kiri: Tengkorak -->
+  <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/1712.jpg" alt="Skull" width="180" />
+
+  <!-- Kanan: GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" />
+
+</div>
 
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
