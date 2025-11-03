@@ -35,7 +35,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <!-- Kiri: Tengkorak -->
-  <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/1712.jpg" alt="Skull" width="180" />
+   <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/klipartz.com.png" alt="Skull" width="200" />
 
   <!-- Kanan: GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" />
