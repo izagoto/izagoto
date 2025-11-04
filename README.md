@@ -25,7 +25,8 @@
 
 <!-- GitHub stats utama -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="GitHub stats" width="420" />
+
 
 
 📍 **Based in Indonesia**
