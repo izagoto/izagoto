@@ -13,7 +13,7 @@
 
 💻 **Things I love**
 - Python <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/pngwing.com.png" width="24" />
-- Golang <img src="https://media4.giphy.com/media/GJb22mIqoT01hGjG2C/giphy.gif" width="24" />
+- Golang <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/pngwing.com (1).png" width="24" />
 - Backend Development <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="24" />
 - Machine Learning <img src="https://media1.giphy.com/media/KDyxouSEfhOs9i4oru/giphy.gif" width="24" />
 - Data Science <img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="24" />
