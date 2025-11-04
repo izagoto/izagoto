@@ -16,7 +16,7 @@
 - Golang <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/pngwing.com (1).png" width="24" />
 - Backend Development <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="24" />
 - Machine Learning <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/pngwing.com (4).png" width="24" />
-- Data Science <img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="24" />
+- Data Science <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/pngegg.png" width="24" />
 
 ---
 
