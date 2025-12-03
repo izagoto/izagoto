@@ -24,7 +24,7 @@
 <!-- <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" alt="GitHub stats" /> -->
 
 <!-- GitHub stats utama -->
-[![izagoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical)](https://github.com/izagoto)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" /> -->
 
 
