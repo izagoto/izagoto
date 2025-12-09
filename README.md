@@ -24,8 +24,12 @@
 <!-- <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" alt="GitHub stats" /> -->
 
 <!-- GitHub stats utama -->
-<img align="right" src="https://github-readme-stats.vercel.appapi?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" />
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" /> -->
+<div align="right">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=izagoto&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 📍 **Based in Indonesia**
