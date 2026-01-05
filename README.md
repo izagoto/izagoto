@@ -29,7 +29,7 @@
 
 📍 **Based in Indonesia**
 
-<p align="left">
+<p align="right">
   <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/klipartz.com.png" alt="Skull" width="200" />
 </p>
 
