@@ -1,5 +1,3 @@
----
-
 <!-- GitHub stats (lebih stabil menggunakan vercel) -->
 <!-- <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical" alt="GitHub stats" /> -->
 
