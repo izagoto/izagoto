@@ -30,7 +30,7 @@
 📍 **Based in Indonesia**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding Animation" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFxbXNzeHRzbTk3a2ExYnNhdW9iYzF1bmY2YTEzMzJrdzJqcHZ0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXnygGeB6LPPi/giphy.gif" alt="Futuristic Tech Animation" width="600"/>
 </p>
 
 <!-- <p align="center">
