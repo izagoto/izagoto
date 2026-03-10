@@ -12,7 +12,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/klipartz.com.png" alt="Skull" width="200" />
+  <!-- <img src="https://raw.githubusercontent.com/izagoto/izagoto/main/klipartz.com.png" alt="Skull" width="200" /> -->
 </p>
 
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake.svg#gh-light-mode-only)
