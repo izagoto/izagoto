@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=izagoto&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="420" /> -->
 
 
-📍 **Based in 172.0.0.1**
+📍 **Based in localhost**
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFxbXNzeHRzbTk3a2ExYnNhdW9iYzF1bmY2YTEzMzJrdzJqcHZ0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IXnygGeB6LPPi/giphy.gif" alt="Futuristic Tech Animation" width="600"/>
