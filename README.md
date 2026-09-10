@@ -19,6 +19,6 @@
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/izagoto/izagoto/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=izagoto&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=izagoto&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" /> -->
 
 
